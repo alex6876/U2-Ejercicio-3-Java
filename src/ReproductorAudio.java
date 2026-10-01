@@ -4,7 +4,7 @@ public class ReproductorAudio {
 
     public ReproductorAudio() {
         this.volumenActual = 50;
-        this.estado = estado;
+        this.estado = "Detenido";
     }
 
     public void play(){
